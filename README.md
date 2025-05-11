@@ -1,4 +1,4 @@
-# Welcome to MY IP SERVER
+# Welcome to Nautica
 
 Sebuah repository serverless tunnel studi kasus Indonesia
 
